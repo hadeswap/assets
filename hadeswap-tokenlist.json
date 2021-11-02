@@ -43,7 +43,7 @@
       "name": "Wrapped Polis",
       "symbol": "WPOLIS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/hades-finance/assets/master/blockchains/olympus/assets/0x6FC851B8D66116627Fb1137b9D5FE4E2e1BeA978/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0x6FC851B8D66116627Fb1137b9D5FE4E2e1BeA978/logo.png"
     },
     {
       "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
@@ -51,7 +51,7 @@
       "name": "Binance Pegged DAI from BSC wrapped by passport.meter.io",
       "symbol": "DAI.BSC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/hades-finance/assets/master/blockchains/olympus/assets/0x247123e806a27Ea322bFd93e0273D04602dC942D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0x247123e806a27Ea322bFd93e0273D04602dC942D/logo.png"
     },
     {
       "address": "0xf1498e8103359fD96c5E08fb34b4C249B619025a",
@@ -59,7 +59,7 @@
       "name": "SoulToken",
       "symbol": "SOUL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/hades-finance/assets/master/blockchains/olympus/assets/0xf1498e8103359fD96c5E08fb34b4C249B619025a/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0xf1498e8103359fD96c5E08fb34b4C249B619025a/logo.png"
     }
   ]
 }

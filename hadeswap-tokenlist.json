@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/hades-finance/assets/master/blockchains/sparta/assets/0xc9Ec2EDD1BA38918a55B5ab637dd0Ac02e6e4058/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/sparta/assets/0xc9Ec2EDD1BA38918a55B5ab637dd0Ac02e6e4058/logo.png",
   "keywords": [
     "hadeswap",
     "default"
@@ -19,7 +19,7 @@
       "name": "Wrapped Polis",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/hades-finance/assets/master/blockchains/sparta/assets/0xC614405267eCDbF01FB5b425e3F2EC657160101A/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/sparta/assets/0xC614405267eCDbF01FB5b425e3F2EC657160101A/logo.png"
     },
     {
       "address": "0xc9Ec2EDD1BA38918a55B5ab637dd0Ac02e6e4058",
@@ -27,7 +27,7 @@
       "name": "Soul Token",
       "symbol": "SOUL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/hades-finance/assets/master/blockchains/sparta/assets/0xc9Ec2EDD1BA38918a55B5ab637dd0Ac02e6e4058/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/sparta/assets/0xc9Ec2EDD1BA38918a55B5ab637dd0Ac02e6e4058/logo.png"
     },
     {
       "address": "0x388ABBB063608924d8033F1B1266B64C93F1a3a3",
@@ -35,7 +35,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/hades-finance/assets/master/blockchains/sparta/assets/0x388ABBB063608924d8033F1B1266B64C93F1a3a3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/sparta/assets/0x388ABBB063608924d8033F1B1266B64C93F1a3a3/logo.png"
     },
     {
       "address": "0x6FC851B8D66116627Fb1137b9D5FE4E2e1BeA978",
@@ -48,7 +48,7 @@
     {
       "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
       "chainId": 333999,
-      "name": "Binance Pegged DAI from BSC wrapped by passport.meter.io",
+      "name": "DAI",
       "symbol": "DAI.BSC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0x247123e806a27Ea322bFd93e0273D04602dC942D/logo.png"
@@ -60,6 +60,38 @@
       "symbol": "SOUL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0xf1498e8103359fD96c5E08fb34b4C249B619025a/logo.png"
+    },
+    {
+      "address": "0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac",
+      "chainId": 333999,
+      "name": "BTC",
+      "symbol": "BTC.BSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac/logo.png"
+    },
+    {
+      "address": "0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7",
+      "chainId": 333999,
+      "name": "CAKE",
+      "symbol": "CAKE.BSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7/logo.png"
+    },
+    {
+      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+      "chainId": 333999,
+      "name": "ETH",
+      "symbol": "ETH.BSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/olympus/assets/0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B/logo.png"
+    },
+    {
+      "address": "0xa00744882684c3e4747faefd68d283ea44099d03",
+      "chainId": 4689,
+      "name": "Wrapped IOTX",
+      "symbol": "WIOTX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hadeswap/assets/master/blockchains/iotex/assets/0xa00744882684c3e4747faefd68d283ea44099d03/logo.png"
     }
   ]
 }
